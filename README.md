@@ -11,5 +11,4 @@
 
 The output will be:
 
-![image](https://user-images.githubusercontent.com/13206817/122617690-1ce45d80-d063-11eb-91c9-1fe23e0484db.png)
-
+![image](https://user-images.githubusercontent.com/13206817/122617862-7482c900-d063-11eb-8527-552bd01ddd37.png)
